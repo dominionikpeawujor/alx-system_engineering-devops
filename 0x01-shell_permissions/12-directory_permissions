@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir chmod 751 u-r my_dir 
+mkdir chmod 750 my_dir 
